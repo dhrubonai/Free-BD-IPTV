@@ -1,68 +1,120 @@
+<div align="center">
+
+<img src="assets/waifu.gif" width="230" alt="Welcome!" />
+
 # 📺 Free BD IPTV
 
-**A free, open collection of IPTV stream links curated especially for Bangladeshi users.**
+### Watch Bangladeshi TV — anywhere, anytime, completely free.
 
-Watch Bangladeshi news, movies, music, cartoons, sports and weather channels — completely free, directly in **VLC** or any IPTV player. No app to install, no registration, no fees.
+A hand-curated collection of free IPTV stream links made for Bangladeshi viewers at home and abroad.
+**News • Movies • Music • Cartoons • Sports • Weather**
 
-Created and maintained by **Mohiuddin Abdul Kadir Dhrubo**.
+<br/>
+
+<img src="https://img.shields.io/badge/📺_Channels-2550+-2ea44f?style=for-the-badge" alt="Channels" />
+<img src="https://img.shields.io/badge/VLC-Ready-ff8800?style=for-the-badge&logo=vlcmediaplayer&logoColor=white" alt="VLC Ready" />
+<img src="https://img.shields.io/badge/License-Personal_Use-1f6feb?style=for-the-badge" alt="License" />
+<a href="https://github.com/dhrubonai/Free-BD-IPTV/stargazers"><img src="https://img.shields.io/github/stars/dhrubonai/Free-BD-IPTV?style=for-the-badge&color=yellow" alt="Stars" /></a>
+
+<br/>
+
+⭐ **Enjoying free TV? Give this repo a star — it helps other Bangladeshi viewers find it!** ⭐
+
+<sub>Created & maintained by <b>Mohiuddin Abdul Kadir Dhrubo</b></sub>
+
+</div>
+
+---
+
+## ✨ Why Free BD IPTV?
+
+- 🆓 **Completely free** — no registration, no subscription, no hidden fees
+- 🇧🇩 **Made for Bangladesh** — every news channel is Bangladeshi, from Somoy to Jamuna to Channel 24
+- 📱 **Works everywhere** — VLC on PC & mobile, Smart TV, Android TV, any IPTV player
+- 🪶 **Lightweight** — pure M3U playlists, just copy a link and press play
 
 ---
 
 ## 📋 Playlists
 
-| Playlist | Channels | Description | Link |
-|---|---|---|---|
-| 🇧🇩 Bangladesh News | 32 | All major Bangladeshi news channels — Somoy, Jamuna, Channel 24, ATN News, DBC, Ekattor, Independent TV and more | [`bd_news.m3u`](https://raw.githubusercontent.com/dhrubonai/Free-BD-IPTV/main/playlists/bd_news.m3u) |
-| 🎵 Music | 768 | Music channels from Bangladesh and around the world | [`music.m3u`](https://raw.githubusercontent.com/dhrubonai/Free-BD-IPTV/main/playlists/entertainment/music.m3u) |
+| Playlist | Channels | What's inside | Link |
+|---|:---:|---|---|
+| 🇧🇩 **Bangladesh News** | 32 | Somoy, Jamuna, Channel 24, ATN News, DBC, Ekattor, Independent, News 24, BTV News & more | [`bd_news.m3u`](https://raw.githubusercontent.com/dhrubonai/Free-BD-IPTV/main/playlists/bd_news.m3u) |
+| 🎵 Music | 768 | Music channels from Bangladesh & around the world | [`music.m3u`](https://raw.githubusercontent.com/dhrubonai/Free-BD-IPTV/main/playlists/entertainment/music.m3u) |
 | 🎬 Movies | 715 | Movie channels from around the world | [`movies.m3u`](https://raw.githubusercontent.com/dhrubonai/Free-BD-IPTV/main/playlists/entertainment/movies.m3u) |
-| 🧸 Cartoon & Kids | 516 | Cartoon, animation and kids channels | [`cartoon.m3u`](https://raw.githubusercontent.com/dhrubonai/Free-BD-IPTV/main/playlists/entertainment/cartoon.m3u) |
+| 🧸 Cartoon & Kids | 516 | Cartoons, animation & kids channels | [`cartoon.m3u`](https://raw.githubusercontent.com/dhrubonai/Free-BD-IPTV/main/playlists/entertainment/cartoon.m3u) |
 | ⚽ Sports | 451 | Sports channels from around the world | [`sports.m3u`](https://raw.githubusercontent.com/dhrubonai/Free-BD-IPTV/main/playlists/sports.m3u) |
-| 🌦️ Weather | 17 | Weather channels | [`weather.m3u`](https://raw.githubusercontent.com/dhrubonai/Free-BD-IPTV/main/playlists/weather.m3u) |
-| 🇧🇩 All Bangladeshi TV | 105 | Bonus: every Bangladeshi channel in one playlist — news, entertainment, religious, general | [`bd_all_channels.m3u`](https://raw.githubusercontent.com/dhrubonai/Free-BD-IPTV/main/playlists/bd_all_channels.m3u) |
-| 📺 All-in-One | 2550 | Every channel above in a single playlist, neatly grouped by category | [`free_bd_iptv_all.m3u`](https://raw.githubusercontent.com/dhrubonai/Free-BD-IPTV/main/playlists/free_bd_iptv_all.m3u) |
-
-**2550+ channels in total.** News channels are exclusively Bangladeshi; entertainment, sports and weather playlists include both local and international channels.
+| 🌦️ Weather | 17 | Weather & forecast channels | [`weather.m3u`](https://raw.githubusercontent.com/dhrubonai/Free-BD-IPTV/main/playlists/weather.m3u) |
+| 🇧🇩 All Bangladeshi TV | 105 | **Bonus** — every Bangladeshi channel: news, entertainment, religious & more | [`bd_all_channels.m3u`](https://raw.githubusercontent.com/dhrubonai/Free-BD-IPTV/main/playlists/bd_all_channels.m3u) |
+| 📺 All-in-One | 2550 | Everything above in a single playlist, neatly grouped | [`free_bd_iptv_all.m3u`](https://raw.githubusercontent.com/dhrubonai/Free-BD-IPTV/main/playlists/free_bd_iptv_all.m3u) |
 
 ---
 
-## ▶️ How to Watch (VLC)
+## ▶️ How to Watch
 
-### On Windows / Mac / Linux
+<details open>
+<summary><b>🖥️ Windows / Mac / Linux (VLC)</b></summary>
 
-1. Install [VLC Media Player](https://www.videolan.org/vlc/) (free).
-2. Open VLC → **Media** → **Open Network Stream** (`Ctrl + N`).
-3. Paste a playlist link, for example the Bangladesh News playlist:
+1. Install [VLC Media Player](https://www.videolan.org/vlc/) — it's free
+2. Open VLC → **Media** → **Open Network Stream** (`Ctrl + N`)
+3. Paste a playlist link, e.g. the Bangladesh News playlist:
    ```
    https://raw.githubusercontent.com/dhrubonai/Free-BD-IPTV/main/playlists/bd_news.m3u
    ```
-4. Press **Play**, then use **View → Playlist** (`Ctrl + L`) to browse and switch channels.
+4. Press **Play**, then open **View → Playlist** (`Ctrl + L`) to browse channels
 
-### On Android / iOS
+</details>
 
-1. Install **VLC for Mobile** (or any IPTV player such as Televizo or IPTV Smarters).
-2. Open the app → **Network Stream** (VLC) or **Add Playlist → URL** (IPTV players).
-3. Paste any playlist link from the table above and enjoy.
+<details>
+<summary><b>📱 Android / iOS</b></summary>
 
-### On Smart TV / Android TV
+1. Install **VLC for Mobile** — or any IPTV player (Televizo, IPTV Smarters, etc.)
+2. VLC: **More → New Stream** · IPTV apps: **Add Playlist → URL**
+3. Paste any playlist link from the table above and enjoy
 
-Use any IPTV player app that accepts an M3U playlist URL (e.g., **Televizo**, **TiviMate**, **IPTV Pro**) and add a playlist link from the table above.
+</details>
+
+<details>
+<summary><b>📺 Smart TV / Android TV</b></summary>
+
+Install any IPTV player that accepts an M3U URL (**Televizo**, **TiviMate**, **IPTV Pro**) and add a playlist link from the table above.
+
+</details>
+
+---
+
+## 🤝 Connect With Me
+
+**Follow me for updates — and if you ever face a problem with any playlist, feel free to reach out. I'm happy to help!**
+
+<div align="center">
+
+<a href="https://www.facebook.com/share/1LLhAmRUp2/"><img src="https://img.shields.io/badge/Facebook-Follow_Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+&nbsp;
+<a href="https://www.instagram.com/dhrubo_morse?igsh=aHNsazZyOTY4dWN2"><img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+</div>
 
 ---
 
 ## 💡 Good to Know
 
-- **100% free to use** — this collection exists so Bangladeshi users at home and abroad can watch their favourite channels easily.
-- Stream links point to **publicly available broadcasts** aggregated from open-source community collections — including the excellent [iptv-org](https://github.com/iptv-org/iptv), [imShakil/tvlink](https://github.com/imShakil/tvlink) and [time2shine/IPTV](https://github.com/time2shine/IPTV) projects.
-- **No video is hosted in this repository** — it only contains links. All channels and trademarks belong to their respective owners.
-- Streams occasionally go offline or change quality — that's the nature of free IPTV. If a channel stops working, check back later.
-- Content owners: to request removal of a link, simply [open an issue](https://github.com/dhrubonai/Free-BD-IPTV/issues).
+- Free IPTV streams occasionally go offline or change quality — if a channel stops working, try another link or check back later
+- **No video is hosted in this repository** — it contains links only; all channels, logos and trademarks belong to their respective owners
+- Broadcasters / content owners: to request removal of a link, simply [open an issue](https://github.com/dhrubonai/Free-BD-IPTV/issues)
 
 ---
 
 ## 📄 License
 
-This collection is free for **personal use only**. You may load it into your player and stream as much as you like — but you may **not copy, republish, or redistribute** these playlists in other projects, apps, websites, or repositories. See [LICENSE](LICENSE) for full terms.
+Free for **personal use only** — load it into your player and stream as much as you like. Copying, republishing or redistributing these playlists in other projects, apps, websites or repositories is **not permitted**. See [LICENSE](LICENSE) for full terms.
 
 ---
 
-<p align="center">Made with ❤️ for Bangladesh 🇧🇩 by <b>Mohiuddin Abdul Kadir Dhrubo</b></p>
+<div align="center">
+
+**Made with ❤️ for Bangladesh 🇧🇩**
+
+<sub>by <b>Mohiuddin Abdul Kadir Dhrubo</b> · ⭐ Don't forget to star!</sub>
+
+</div>
