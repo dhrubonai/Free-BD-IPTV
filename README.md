@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/waifu.gif" width="230" alt="Welcome!" />
+<img src="assets/waifu.gif" width="240" alt="Reze says hi!" />
 
 # 📺 Free BD IPTV
 
