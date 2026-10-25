@@ -92,6 +92,8 @@ Install any IPTV player that accepts an M3U URL (**Televizo**, **TiviMate**, **I
 <a href="https://www.facebook.com/share/1LLhAmRUp2/"><img src="https://img.shields.io/badge/Facebook-Follow_Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 &nbsp;
 <a href="https://www.instagram.com/dhrubo_morse?igsh=aHNsazZyOTY4dWN2"><img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+&nbsp;
+<a href="https://t.me/dhrubo_moira_geche"><img src="https://img.shields.io/badge/Telegram-Contact_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 </div>
 
